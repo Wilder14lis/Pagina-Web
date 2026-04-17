@@ -6,6 +6,7 @@ h2 {
 }
 
 .menu{
+    display:flex;
     background-color: #D9B99F;
 }
 
