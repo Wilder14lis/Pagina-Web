@@ -1,6 +1,9 @@
 h1{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
 
 .menu{
     background-color: #D9B99F;
