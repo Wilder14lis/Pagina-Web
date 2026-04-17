@@ -5,8 +5,13 @@ h2 {
     font-family: 'Courier New', Courier, monospace;
 }
 
+.logo{
+    width: 50%;
+}
+
 .menu{
     display:flex;
+    align-items: center;
     background-color: #D9B99F;
 }
 
