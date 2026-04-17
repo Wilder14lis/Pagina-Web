@@ -1,0 +1,31 @@
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#menu{
+    background-color: #D9B99F;
+}
+
+.tarjetas{    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px
+}
+
+.tarjeta{
+    flex: 1 1 300px; /* Crece, encoge, base de 300px */
+    min-width: 250px;
+    max-width: 350px;
+    background: white;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    display: flex; /* Para alineación interna */
+    flex-direction: column;
+}
+
+footer{
+    background-color: #F2E7DD;
+}
